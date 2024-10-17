@@ -1,5 +1,5 @@
 
-import MortgageHeader from './MortgageHeader'
+import MortgageHeader from './MortgageHeaders'
 import PropTypes from 'prop-types';
 
 
